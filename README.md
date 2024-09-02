@@ -1,29 +1,18 @@
-👋 **Hi there! I'm Manisankar Reddy Ravi** 
+# 💫 About Me:
+🔭 I’m currently working on Data Science and Machine Learning ,Cloud and Java FUllstack and AI related <br>👯 I’m looking to collaborate on Data science and AI projects, particularly those involving innovative machine learning techniques and applications, as I’m a Data Science student graduating in 2025.<br>🤝 I’m looking for help withOptimizing deep learning models and exploring advanced NLP techniques.<br>🌱 I’m currently learning Advanced machine learning techniques, deep learning frameworks, cloud computing, and adopting new technologies, Java full stack and skills.<br>💬 Ask me about My AI projects, NLP applications, or tackling complex machine learning problems.<br>⚡ Fun fact I built a sarcasm detection model with over 80% accuracy on YouTube comments
 
-🚀 **Aspiring Engineer | AI Enthusiast | Lifelong Learner**
 
-I'm currently pursuing a B.Tech in Computer Science at Bapatla Engineering College, where I am honing my skills in software development and deepening my passion for artificial intelligence. My curiosity drives me to constantly explore new technologies, dive into complex problems, and build innovative solutions that make an impact.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/xPv6vAXaBQvo52Co/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mighty___mani?igsh=aXpuN2oxemJ0YWRx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/manisankar-reddy-ravi-33136b276) 
 
-### 💡 **What I'm Passionate About:**
-- **Artificial Intelligence & Machine Learning**: I am fascinated by how AI can transform industries and am eager to contribute to this evolution. I’m actively working on projects that involve deep learning, natural language processing, and predictive modeling.
-- **Open Source**: I believe in the power of community-driven development and love collaborating on open-source projects. It’s a great way to learn from others and give back to the tech community.
-- **Continuous Learning**: Whether it’s through online courses, hackathons, or personal projects, I’m always on the lookout for new skills to add to my toolkit.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Manisank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manisank&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manisank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔧 **My Tech Stack:**
-- **Programming Languages**: Python, Java, C
-- **Frameworks & Libraries**: TensorFlow, Keras, PyTorch, Scikit-learn
-- **Tools & Platforms**: Git, GitHub, Docker, Google Colab
-- **Other Interests**: Data Science, Cloud Computing, and Full-Stack Development
+---
+[![](https://visitcount.itsvg.in/api?id=Manisank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 **What I’m Working On:**
-- **AI-Powered Language Learning Tools**: Developing innovative tools that leverage AI to enhance language learning experiences. These projects aim to make language acquisition more interactive and personalized, utilizing natural language processing and machine learning techniques.
-- **Exploring New AI Projects**: Actively working on new projects that challenge my understanding of AI and machine learning. This includes experimenting with different neural network architectures, data augmentation techniques, and model optimization strategies to push the boundaries of what’s possible.
-- **Continuous Learning & Practice**: Dedicating time to learning and practicing new technologies and methodologies. From mastering the latest AI frameworks to deep diving into cloud computing and full-stack development, I’m committed to staying at the forefront of technological advancements.
-
-### 🌟 **What Sets Me Apart:**
-- **Problem-Solving Mindset**: I approach challenges with a solution-oriented mindset, always looking for the most efficient and scalable way to tackle a problem.
-- **Collaborative Spirit**: I thrive in team environments where ideas are shared, and collaboration is encouraged. My experience in working on group projects has sharpened my ability to communicate effectively and work cohesively towards a common goal.
-- **Innovation-Driven**: I’m not just about learning what’s already out there—I’m driven to create something new, whether it’s a novel approach to a problem or a completely new tool or feature.
-
-### 📫 **Let’s Connect:**
-Feel free to explore my repositories, collaborate on projects, or just drop a message. I’m always open to connecting with like-minded individuals and learning something new.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
